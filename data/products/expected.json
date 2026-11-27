@@ -1,0 +1,6 @@
+{
+  "about": "상품 사진별 정답. 크기는 cm. id와 color는 정답 비교에서 뺀다.",
+  "sofa.png": { "name": "르네 3인용 패브릭 소파 (모카 브라운)", "category": "sofa", "width": 210, "depth": 92, "height": 83, "price": 849000 },
+  "crib.png": { "name": "포근 원목 아기 침대 (내추럴)", "category": "crib", "width": 124, "depth": 68, "height": 95, "price": 289000 },
+  "wardrobe.png": { "name": "모던 2도어 옷장 1000 (화이트)", "category": "wardrobe", "width": 100, "depth": 58, "height": 200, "price": 329000 }
+}

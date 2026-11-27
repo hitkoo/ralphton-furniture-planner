@@ -1,0 +1,29 @@
+{
+  "plan": "example",
+  "items": [
+    { "id": "crib-1", "catalogId": "crib", "x": 120, "y": 45, "rotation": 0 },
+    { "id": "changing-1", "catalogId": "changing-table", "x": 230, "y": 37.5, "rotation": 0 },
+    { "id": "wardrobe-1", "catalogId": "wardrobe", "x": 100, "y": 384, "rotation": 180 },
+    { "id": "rug-1", "catalogId": "rug", "x": 200, "y": 230, "rotation": 0 },
+    { "id": "bed-1", "catalogId": "bed-ss", "x": 65, "y": 685, "rotation": 0 },
+    { "id": "desk-1", "catalogId": "desk", "x": 250, "y": 755, "rotation": 180 },
+    { "id": "chair-1", "catalogId": "chair", "x": 250, "y": 705, "rotation": 0 },
+    { "id": "shelf-1", "catalogId": "bookshelf", "x": 25, "y": 500, "rotation": 270 },
+    { "id": "fridge-1", "catalogId": "fridge", "x": 431.5, "y": 56.5, "rotation": 0 },
+    { "id": "plant-1", "catalogId": "plant", "x": 560, "y": 50, "rotation": 0 },
+    { "id": "table-1", "catalogId": "dining-4", "x": 600, "y": 250, "rotation": 90 },
+    { "id": "dchair-1", "catalogId": "dining-chair", "x": 530, "y": 215, "rotation": 270 },
+    { "id": "dchair-2", "catalogId": "dining-chair", "x": 530, "y": 285, "rotation": 270 },
+    { "id": "dchair-3", "catalogId": "dining-chair", "x": 670, "y": 215, "rotation": 90 },
+    { "id": "dchair-4", "catalogId": "dining-chair", "x": 670, "y": 285, "rotation": 90 },
+    { "id": "sofa-1", "catalogId": "sofa-3", "x": 432, "y": 600, "rotation": 270 },
+    { "id": "rug-2", "catalogId": "rug", "x": 560, "y": 600, "rotation": 90 },
+    { "id": "ctable-1", "catalogId": "coffee-table", "x": 540, "y": 600, "rotation": 90 },
+    { "id": "tv-1", "catalogId": "tv-stand", "x": 734, "y": 600, "rotation": 90 },
+    { "id": "lamp-1", "catalogId": "floor-lamp", "x": 410, "y": 760, "rotation": 0 },
+    { "id": "washer-1", "catalogId": "washer", "x": 1055, "y": 50, "rotation": 0 },
+    { "id": "bed-2", "catalogId": "bed-queen", "x": 1000, "y": 560, "rotation": 90 },
+    { "id": "dresser-1", "catalogId": "dresser", "x": 1000, "y": 288.5, "rotation": 0 },
+    { "id": "rug-3", "catalogId": "rug", "x": 760, "y": 700, "rotation": 0 }
+  ]
+}

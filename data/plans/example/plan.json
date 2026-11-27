@@ -1,0 +1,33 @@
+{
+  "name": "예시 아파트 (24평형)",
+  "ceilingHeight": 230,
+  "walls": [
+    { "id": "w-top", "a": { "x": 0, "y": 0 }, "b": { "x": 1100, "y": 0 }, "thickness": 20 },
+    { "id": "w-right", "a": { "x": 1100, "y": 0 }, "b": { "x": 1100, "y": 800 }, "thickness": 20 },
+    { "id": "w-bottom", "a": { "x": 1100, "y": 800 }, "b": { "x": 0, "y": 800 }, "thickness": 20 },
+    { "id": "w-left", "a": { "x": 0, "y": 800 }, "b": { "x": 0, "y": 0 }, "thickness": 20 },
+    { "id": "w-x380", "a": { "x": 380, "y": 0 }, "b": { "x": 380, "y": 800 }, "thickness": 12 },
+    { "id": "w-x760", "a": { "x": 760, "y": 0 }, "b": { "x": 760, "y": 800 }, "thickness": 12 },
+    { "id": "w-rooms", "a": { "x": 0, "y": 420 }, "b": { "x": 380, "y": 420 }, "thickness": 12 },
+    { "id": "w-bath", "a": { "x": 760, "y": 260 }, "b": { "x": 1100, "y": 260 }, "thickness": 12 }
+  ],
+  "openings": [
+    { "id": "d-entry", "type": "door", "wall": "w-top", "t": 570, "width": 100, "hinge": "start", "opensInto": "r-living" },
+    { "id": "d-room1", "type": "door", "wall": "w-x380", "t": 330, "width": 90, "hinge": "end", "opensInto": "r-room1" },
+    { "id": "d-room2", "type": "door", "wall": "w-x380", "t": 480, "width": 90, "hinge": "start", "opensInto": "r-room2" },
+    { "id": "d-bath", "type": "door", "wall": "w-x760", "t": 200, "width": 80, "hinge": "start", "opensInto": "r-bath" },
+    { "id": "d-master", "type": "door", "wall": "w-x760", "t": 330, "width": 90, "hinge": "end", "opensInto": "r-master" },
+    { "id": "n-living", "type": "window", "wall": "w-bottom", "t": 530, "width": 240 },
+    { "id": "n-master", "type": "window", "wall": "w-bottom", "t": 170, "width": 200 },
+    { "id": "n-room2", "type": "window", "wall": "w-bottom", "t": 910, "width": 160 },
+    { "id": "n-room1", "type": "window", "wall": "w-left", "t": 590, "width": 140 },
+    { "id": "n-bath", "type": "window", "wall": "w-right", "t": 130, "width": 60 }
+  ],
+  "rooms": [
+    { "id": "r-room1", "name": "작은방 1", "polygon": [{ "x": 10, "y": 10 }, { "x": 374, "y": 10 }, { "x": 374, "y": 414 }, { "x": 10, "y": 414 }] },
+    { "id": "r-room2", "name": "작은방 2", "polygon": [{ "x": 10, "y": 426 }, { "x": 374, "y": 426 }, { "x": 374, "y": 790 }, { "x": 10, "y": 790 }] },
+    { "id": "r-living", "name": "거실·주방", "polygon": [{ "x": 386, "y": 10 }, { "x": 754, "y": 10 }, { "x": 754, "y": 790 }, { "x": 386, "y": 790 }] },
+    { "id": "r-bath", "name": "욕실", "polygon": [{ "x": 766, "y": 10 }, { "x": 1090, "y": 10 }, { "x": 1090, "y": 254 }, { "x": 766, "y": 254 }] },
+    { "id": "r-master", "name": "안방", "polygon": [{ "x": 766, "y": 266 }, { "x": 1090, "y": 266 }, { "x": 1090, "y": 790 }, { "x": 766, "y": 790 }] }
+  ]
+}

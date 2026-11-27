@@ -1,0 +1,22 @@
+[
+  { "id": "sofa-3", "name": "3인 소파", "category": "sofa", "width": 210, "depth": 92, "height": 83, "price": 849000, "color": "#8b6b53" },
+  { "id": "sofa-2", "name": "2인 소파", "category": "sofa", "width": 160, "depth": 88, "height": 80, "price": 590000, "color": "#9aa0a6" },
+  { "id": "bed-queen", "name": "퀸 침대", "category": "bed", "width": 160, "depth": 210, "height": 95, "price": 690000, "color": "#d8cbb6" },
+  { "id": "bed-ss", "name": "슈퍼싱글 침대", "category": "bed", "width": 110, "depth": 210, "height": 90, "price": 420000, "color": "#e3d8c6" },
+  { "id": "crib", "name": "아기 침대", "category": "crib", "width": 130, "depth": 70, "height": 95, "price": 290000, "color": "#f2d7c9" },
+  { "id": "changing-table", "name": "기저귀 갈이대", "category": "changing-table", "width": 80, "depth": 55, "height": 95, "price": 170000, "color": "#f5e6da" },
+  { "id": "wardrobe", "name": "옷장", "category": "wardrobe", "width": 120, "depth": 60, "height": 210, "price": 380000, "color": "#eceae5" },
+  { "id": "dresser", "name": "서랍장", "category": "dresser", "width": 100, "depth": 45, "height": 80, "price": 180000, "color": "#c9a57a" },
+  { "id": "desk", "name": "책상", "category": "desk", "width": 140, "depth": 70, "height": 73, "price": 220000, "color": "#e6dfd3" },
+  { "id": "chair", "name": "의자", "category": "chair", "width": 50, "depth": 52, "height": 85, "price": 90000, "color": "#3e3f42" },
+  { "id": "bookshelf", "name": "책장", "category": "shelf", "width": 80, "depth": 30, "height": 180, "price": 120000, "color": "#b98f62" },
+  { "id": "dining-4", "name": "4인 식탁", "category": "table", "width": 140, "depth": 80, "height": 75, "price": 350000, "color": "#a67c52" },
+  { "id": "dining-chair", "name": "식탁 의자", "category": "chair", "width": 45, "depth": 50, "height": 85, "price": 60000, "color": "#7a5c46" },
+  { "id": "coffee-table", "name": "소파 테이블", "category": "table", "width": 110, "depth": 60, "height": 38, "price": 160000, "color": "#8a6a4f" },
+  { "id": "tv-stand", "name": "TV 거실장", "category": "tv-stand", "width": 180, "depth": 40, "height": 45, "price": 250000, "color": "#f1eee9" },
+  { "id": "fridge", "name": "양문형 냉장고", "category": "fridge", "width": 91, "depth": 93, "height": 180, "price": 1890000, "color": "#d5d8dc" },
+  { "id": "washer", "name": "세탁기", "category": "washer", "width": 70, "depth": 80, "height": 100, "price": 790000, "color": "#f2f2f2" },
+  { "id": "rug", "name": "러그", "category": "rug", "width": 200, "depth": 140, "height": 1, "price": 150000, "color": "#c9bba7" },
+  { "id": "plant", "name": "화분", "category": "plant", "width": 45, "depth": 45, "height": 120, "price": 50000, "color": "#4f7d4a" },
+  { "id": "floor-lamp", "name": "장스탠드", "category": "lamp", "width": 40, "depth": 40, "height": 160, "price": 70000, "color": "#e8dcc2" }
+]
